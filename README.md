@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohitrajput-42
-- 👀 I’m interested in wed-dev jobs
+- 👀 I’m interested in wed-dev
 - 🌱 I’m currently learning Django/Rest
 - 📫 How to reach me: https://www.linkedin.com/in/rohit-rajput-336698143/
 
